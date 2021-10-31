@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trella-task/static/css/main.2908b7f8.chunk.css",
+    "main.js": "/trella-task/static/js/main.b5e835e5.chunk.js",
+    "main.js.map": "/trella-task/static/js/main.b5e835e5.chunk.js.map",
+    "runtime-main.js": "/trella-task/static/js/runtime-main.4dae072b.js",
+    "runtime-main.js.map": "/trella-task/static/js/runtime-main.4dae072b.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/trella-task/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.71b20b18.chunk.js": "/trella-task/static/js/2.71b20b18.chunk.js",
+    "static/js/2.71b20b18.chunk.js.map": "/trella-task/static/js/2.71b20b18.chunk.js.map",
+    "static/js/3.76943416.chunk.js": "/trella-task/static/js/3.76943416.chunk.js",
+    "static/js/3.76943416.chunk.js.map": "/trella-task/static/js/3.76943416.chunk.js.map",
+    "index.html": "/trella-task/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/trella-task/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.2908b7f8.chunk.css.map": "/trella-task/static/css/main.2908b7f8.chunk.css.map",
+    "static/js/2.71b20b18.chunk.js.LICENSE.txt": "/trella-task/static/js/2.71b20b18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dae072b.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.71b20b18.chunk.js",
+    "static/css/main.2908b7f8.chunk.css",
+    "static/js/main.b5e835e5.chunk.js"
+  ]
+}
